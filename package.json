@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EclesioMeloJunior/video-maker/issues"
   },
-  "homepage": "https://github.com/EclesioMeloJunior/video-maker#readme"
+  "homepage": "https://github.com/EclesioMeloJunior/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
