@@ -1,23 +1,25 @@
 {
-  "name": "video-maker",
-  "version": "1.0.0",
-  "description": "Project to craft videos automatically about some subject",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EclesioMeloJunior/video-maker.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EclesioMeloJunior/video-maker/issues"
-  },
-  "homepage": "https://github.com/EclesioMeloJunior/video-maker#readme",
-  "dependencies": {
-    "readline-sync": "^1.4.9"
-  }
+	"name": "video-maker",
+	"version": "1.0.0",
+	"description": "Project to craft videos automatically about some subject",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/EclesioMeloJunior/video-maker.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/EclesioMeloJunior/video-maker/issues"
+	},
+	"homepage": "https://github.com/EclesioMeloJunior/video-maker#readme",
+	"dependencies": {
+		"algorithmia": "^0.3.10",
+		"readline-sync": "^1.4.9",
+		"sbd": "^1.0.15"
+	}
 }
